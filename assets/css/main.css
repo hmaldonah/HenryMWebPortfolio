@@ -224,6 +224,10 @@ input, select, textarea {
 		font-size: 0.8rem;
 	}
 
+	ul.no-bullets {
+		list-style-type: none; /* Remove bullets */
+	}
+
 	sub {
 		font-size: 0.8rem;
 		position: relative;
